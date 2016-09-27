@@ -8,7 +8,6 @@ function next(element){
 		return nextSibling;
 }
 
-
 function prev(element){
 		var prevSibling = element.previousSibling;
 
